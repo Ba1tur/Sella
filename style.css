@@ -947,6 +947,7 @@ img {
     height: 90vh;
     justify-content: space-between;
     gap: 10px;
+    margin-bottom: 70px;
     padding: 0 2% 40px 2%;
     box-shadow: none;
   }
